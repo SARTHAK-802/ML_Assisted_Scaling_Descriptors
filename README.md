@@ -36,10 +36,9 @@ Please refer to the repository folder structure for the exact naming scheme and 
 
 ## Citation
 
-If you use this dataset in your work, please cite the associated manuscript:
+Please CITE the following paper if you use any part of this repo:
 
-S. Maity#, R. K. Sharma#, H. Minhas, B. Pathak*  
-**Deciphering Key Descriptors for Scaling Relationships in Graphene-Supported Ptₙ Clusters via Machine Learning**
+Maity, S.; Sharma, R. K.; Minhas, H.; Pathak, B., Deciphering Key Descriptors for Scaling Relationships in Graphene-Supported Ptₙ Clusters via Machine Learning.
 
 (Citation details will be updated upon publication.)
 
