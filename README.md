@@ -20,7 +20,7 @@ All LMs included here lie within an energy window of **0.4 eV** relative to the 
 - **Excel datasheets (.xlsx)** containing the corresponding DFT-generated data.
 
 ### 3) Machine learning workflow
-- **Python scripts (.py)** and/or **Jupyter notebooks (.ipynb)** used for ML model development, training, and analysis.
+- **Jupyter notebooks (.ipynb)** used for ML model development, training, and analysis.
 
 ---
 
