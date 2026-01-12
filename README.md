@@ -22,7 +22,6 @@ All LMs included here lie within an energy window of **0.4 eV** relative to the 
 ### 3) Machine learning workflow
 - **Jupyter notebooks (.ipynb)** used for ML model development, training, and analysis.
 
----
 
 ## Citation
 
@@ -32,7 +31,6 @@ Maity, S.; Sharma, R. K.; Minhas, H.; Pathak, B., Deciphering Key Descriptors fo
 
 (Citation details will be updated upon publication.)
 
----
 
 ## Contact
 
