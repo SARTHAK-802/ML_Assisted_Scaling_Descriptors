@@ -2,8 +2,6 @@
 
 Subnanometer Pt clusters are promising electrocatalysts because they enable high noble-metal utilization and can exhibit unusually high activity. However, unlike extended surfaces, these clusters are highly fluxional, strongly isomer-dependent, and often deviate from conventional scaling relationships, making accurate activity prediction challenging. In our work, we develop a combined **DFT and machine learning (ML)** framework to uncover the **geometric origin of non-scaling behavior** in the subnanometer regime. Beyond single-intermediate adsorption, we further assess realistic ORR conditions by considering higher intermediate coverages. Thermodynamic analysis reveals a strong oxidative tendency of supported Pt clusters, favoring oxygen monolayer formation, which increases ORR overpotentials relative to bare clusters and highlights the critical role of coverage-dependent structural evolution in supported subnanometer electrocatalysts.
 
----
-
 ## Repository Content
 
 This repository contains the following data and codes:
@@ -21,7 +19,6 @@ All LMs included here lie within an energy window of **0.4 eV** relative to the 
 
 ### 3) Machine learning workflow
 - **Jupyter notebooks (.ipynb)** used for ML model development, training, and analysis.
-
 
 ## Citation
 
