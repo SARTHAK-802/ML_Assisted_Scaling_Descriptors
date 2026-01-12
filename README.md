@@ -24,16 +24,6 @@ All LMs included here lie within an energy window of **0.4 eV** relative to the 
 
 ---
 
-## File Formats
-
-- **CONTCAR**: VASP-format optimized atomic coordinates for graphene-supported Pt<sub>7–13</sub> clusters (Pt cluster + graphene atoms included), suitable for direct use in **VASP**.
-- **.xlsx**: processed DFT dataset used for analysis and ML model input.
-- **.ipynb**: Jupyter notebooks for post-processing, ML model training, evaluation and visualization.
-
-Please refer to the repository folder structure for the exact naming scheme and organization.
-
----
-
 ## Citation
 
 Please CITE the following paper if you use any part of this repo:
