@@ -17,7 +17,7 @@ For each cluster size (**Pt<sub>7</sub>, Pt<sub>8</sub>, Pt<sub>9</sub>, Pt<sub>
 All LMs included here lie within an energy window of **0.4 eV** relative to the corresponding GM.
 
 ### 2) DFT dataset
-- **Excel datasheets (.xlsx)** containing the corresponding DFT-generated data (e.g., total energies, adsorption energies, and descriptors).
+- **Excel datasheets (.xlsx)** containing the corresponding DFT-generated data.
 
 ### 3) Machine learning workflow
 - **Python scripts (.py)** and/or **Jupyter notebooks (.ipynb)** used for ML model development, training, and analysis.
@@ -26,10 +26,9 @@ All LMs included here lie within an energy window of **0.4 eV** relative to the 
 
 ## File Formats
 
-- **CONTCAR**: VASP-format optimized atomic coordinates for graphene-supported Pt<sub>7–13</sub> clusters (Pt cluster + graphene atoms included), suitable for direct use in **VASP** and **ASE** workflows.
+- **CONTCAR**: VASP-format optimized atomic coordinates for graphene-supported Pt<sub>7–13</sub> clusters (Pt cluster + graphene atoms included), suitable for direct use in **VASP**.
 - **.xlsx**: processed DFT dataset used for analysis and ML model input.
-- **.py**: Python scripts for preprocessing, descriptor generation, and ML training/analysis.
-- **.ipynb**: Jupyter notebooks for post-processing, ML workflows, and visualization.
+- **.ipynb**: Jupyter notebooks for post-processing, ML model training, evaluation and visualization.
 
 Please refer to the repository folder structure for the exact naming scheme and organization.
 
