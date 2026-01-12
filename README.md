@@ -1,35 +1,6 @@
-# Deciphering Key Descriptors for Scaling Relationships in Graphene-Supported Ptₙ Clusters (Pt₇–Pt₁₃) via Machine Learning
+# Deciphering Key Descriptors for Scaling Relationships in Graphene-Supported Ptₙ Clusters (Pt<sub>n</sub>) via Machine Learning"
 
-This repository contains the **atomic coordinates (structures)** of the **global minima (GMs)** along with the corresponding **low-lying local minima (LMs)** for **graphene-supported Ptₙ clusters (n = 7–13)**, generated from systematic **global optimization** searches.
-
-The structures provided here are used in our accompanying manuscript:
-
-**“Deciphering Key Descriptors for Scaling Relationships in Graphene-Supported Ptₙ Clusters via Machine Learning”** :contentReference[oaicite:0]{index=0}
-
----
-
-## Contents of this Repository
-
-- **Pt₇–Pt₁₃ / Graphene-supported clusters**
-- For each Ptₙ size:
-  - **GM (Global Minimum) structure**
-  - **LM (Local Minimum) structures** within the low-energy ensemble
-
-✅ **All the local minima included are within 0.4 eV energy difference from the GM.**
-
----
-
-## Scientific Context (Brief)
-
-Subnanometer Pt clusters supported on graphene exhibit:
-- Strong **fluxionality** (multiple accessible isomers)
-- Highly **heterogeneous active sites**
-- **Non-monotonic ORR activity**
-- Breaking of traditional **scaling relationships** in the subnanometer regime
-
-The dataset in this repository provides the **structural foundation** for adsorption-energy modeling and machine-learning descriptor analysis reported in the manuscript. :contentReference[oaicite:1]{index=1}
-
----
+Subnanometer Pt clusters are promising electrocatalysts because they enable high noble-metal utilization and can exhibit unusually high activity. However, unlike extended surfaces, these clusters are highly fluxional, strongly isomer-dependent, and often deviate from conventional scaling relationships, making accurate activity prediction challenging. In this work, we develop a combined DFT and machine learning (ML) framework to uncover the geometric origin of non-scaling behavior in the subnanometer regime. Feature-driven uncertainty and interpretability analyses identify the perpendicular distance between the active Pt atom and the graphene surface (Z) as the most influential descriptor governing the breakdown of scaling relations. Beyond single-intermediate adsorption, we further assess realistic ORR conditions by considering higher intermediate coverages. Thermodynamic analysis reveals a strong oxidative tendency of supported Pt clusters, favoring oxygen monolayer formation, which increases ORR overpotentials relative to bare clusters and highlights the critical role of coverage-dependent structural evolution in supported subnanometer electrocatalysts.
 
 ## File Formats
 
@@ -43,7 +14,7 @@ The coordinates are provided as geometry files suitable for use in atomistic sim
 If you use this dataset in your work, please cite the associated manuscript:
 
 S. Maity#, R. K. Sharma#, H. Minhas, B. Pathak*  
-**Deciphering Key Descriptors for Scaling Relationships in Graphene-Supported Ptₙ Clusters via Machine Learning** :contentReference[oaicite:2]{index=2}
+**Deciphering Key Descriptors for Scaling Relationships in Graphene-Supported Ptₙ Clusters via Machine Learning**
 
 ---
 
