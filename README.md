@@ -8,7 +8,7 @@ Subnanometer Pt clusters are promising electrocatalysts because they enable high
 
 This repository contains the following data and codes:
 
-### 1) Optimized bare structures (Pt<sub>7–13</sub>/graphene)
+### 1) Optimized bare structures (Pt<sub>7–13</sub>/Graphene)
 For each cluster size (**Pt<sub>7</sub>, Pt<sub>8</sub>, Pt<sub>9</sub>, Pt<sub>10</sub>, Pt<sub>11</sub>, Pt<sub>12</sub>, and Pt<sub>13</sub>**), the repository provides:
 
 - the **global minimum (GM)** structure, and  
